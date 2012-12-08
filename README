@@ -1,1 +1,10 @@
 fakeaws is a collection of fake aws servers based on goamz.
+
+Install
+
+To install it, you must have Go installed. Having Go installed and properly
+configured, just run:
+
+	% go get github.com/fsouza/fakeaws/...
+
+Binary distribution may come in future.
